@@ -71,19 +71,19 @@ The following questions ask about principles of interaction and visual design as
 
 1. Assume that Badger Beats contains thousands of songs. How would you load and display the results in an efficient manner?
 
-INSERT YOUR RESPONSE HERE.
+I would load the load them and display with groups divided with Genre or released year. Dividing thousands of data with smaller group will be easier to lookup for the user instead of full data being loaded.
 
 2. Assume that Badger Beats contains thousands of songs. How would you help users narrow down their results?
 
-INSERT YOUR RESPONSE HERE.
+We can narrow down the results with divided groups based on Genre, artists or year. Later when the user adds favorite music, based on the favorite musics genre or artist, we can show the results with same genre or artist at first to recommend other songs that the user might like.
 
 3. What are three aspects of visual design that *you used* in your implementation of Badger Beats?
 
-INSERT YOUR RESPONSE HERE.
+We had to keep the balance of music cards on our web to make it more stable and clean. The contrast of button color would make it easier for users to recognize if the music is added in favorite or not. Had to find the appropriate size for fonts and set the appropriate scale for cards and other informations showing up to make sure the interface doesn't break up when we change the size of window and the size of font are balanced which will make it easier to catch what it is.
 
 4. What are three aspects of visual design that *could be used* to improve your implementation of Badger Beats?
 
-INSERT YOUR RESPONSE HERE.
+I could have added some pattern and variety to differentiate the group of music. Maybe I could include some line to seperate section inside the interface which will make it easier to look and find what the user want. Could have added some value to the music card to differentiate favorite musics and others.
 
 ### Done! 🥳
 
